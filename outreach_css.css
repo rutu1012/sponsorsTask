@@ -58,8 +58,8 @@
     border-color: rgba(15, 0, 0, 0.425);
     border-style: solid;
     border-width: 1px;
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
 }
 
 .cards__item:hover{
