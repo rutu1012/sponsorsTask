@@ -1,0 +1,33 @@
+.sub-heading{
+	position: relative;
+	font-family: "Segoe UI";
+	font-weight: normal;
+	font-size: 30px;
+	padding-bottom: 1%;
+	left: 1px;
+	opacity: 50%;
+	letter-spacing: 1px;
+}
+.card{
+	display: inline-block;
+	margin-left: 83px;
+	background-color: white;
+	width: 250px;
+	height: 250px;
+
+	box-shadow: 9px 9px 6px #00000029;
+border: 1px solid #707070;
+border-radius: 10px;
+opacity: 1;
+text-align: center;
+
+
+}
+.row{
+	margin-top: 3%;
+	text-align: center;
+	padding-right: 5%;
+}
+img{
+	padding-top: 10%;
+}

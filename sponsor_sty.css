@@ -1,0 +1,78 @@
+.heading{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 86px;
+color: #707070;
+font-family: "Segoe UI Regular";
+font-size: 44px;
+
+opacity: 1;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 919px;
+    /* width: 50%; */
+}
+.line1{
+    display: flex;
+    margin-left: 215px;
+    margin-right: auto;
+    margin-bottom: 38px;
+    align-items: center;
+}
+.box{
+    box-shadow: 9px 9px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    
+}
+
+.boxM{
+    margin-left: 84px;
+    margin-right: 84px; 
+
+}
+.box2{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.box3{
+    margin-left: 166px;   
+}
+.card{
+    
+	width: 75%;
+    margin-left: 33px;
+    margin-top: 25%;
+
+}
+.card2{
+    width: 75%;
+    margin-left: 33px;
+    margin-top: 35%;
+}
+.ola{
+    margin-top: 25px;
+    width: 75%;
+    margin-left: 33px;
+}
+.hp{
+    height: 55%;
+    width: 55%;
+    margin-left: 55px;
+    margin-top: 20%;
+}
+.ias{
+    width: 75%;
+    margin-left: 33px;
+    margin-top: 10%;
+}
